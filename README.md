@@ -30,7 +30,6 @@
   <img src="./images/yarn.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/git.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br>
 
 ---
 

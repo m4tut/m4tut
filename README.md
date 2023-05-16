@@ -26,9 +26,6 @@
   <img src="./images/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="./images/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="./images/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="./images/npm.svg" title="Npm" **alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="./images/yarn.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;
-  <img src="./images/git.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
